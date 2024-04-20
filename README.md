@@ -37,7 +37,7 @@ git clone https://github.com/seu_usuario/gridpics.git
 
 ## Autor
 
-Este projeto foi desenvolvido por [Denis](https://github.com/seu_usuario).
+Este projeto foi desenvolvido por [Denis](https://github.com/Zerafeus).
 
 ## Licença
 
